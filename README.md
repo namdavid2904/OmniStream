@@ -1,4 +1,4 @@
-# Scalable IoT Ingestion Infrastructure & Fault-Tolerant Alerting Engine
+# OmniStream: Scalable IoT Ingestion & Alerting Engine
 
 
 
