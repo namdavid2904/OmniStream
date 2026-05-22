@@ -1,10 +1,11 @@
-# Endless Eight — Scalable IoT Ingestion Infrastructure & Fault-Tolerant Alerting Engine
+# Scalable IoT Ingestion Infrastructure & Fault-Tolerant Alerting Engine
 
 
 
 
 **Team:** Nam Pham, Eric Gu, Zaeem Chaudhary, Justin Manoj, Sean Young, Srikar Kopparapu, William Hammond, Nathan Chen
-**Repository:** https://github.com/Sri200519/team-8-iot.git
+
+**Repository:** [https://github.com/namdavid2904/OmniStream.git](https://github.com/namdavid2904/OmniStream.git)
 
 
 
