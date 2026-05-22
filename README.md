@@ -1,11 +1,9 @@
-# Endless Eight — IoT Sensor Monitoring Dashboard
+# Endless Eight — Scalable IoT Ingestion Infrastructure & Fault-Tolerant Alerting Engine
 
 
 
 
-**Course:** COMPSCI 426  
-**Team:** Eric Gu, Zaeem Chaudhary, Justin Manoj, Sean Young, Srikar Kopparapu, Nam Pham, William Hammond, Nathan Chen
-**System:** IoT Sensor Monitoring Dashboard
+**Team:** Nam Pham, Eric Gu, Zaeem Chaudhary, Justin Manoj, Sean Young, Srikar Kopparapu, William Hammond, Nathan Chen
 **Repository:** https://github.com/Sri200519/team-8-iot.git
 
 
